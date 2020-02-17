@@ -20,7 +20,7 @@ create database bambuauthchallenge;
 create database bambuauthchallengetest;
 ```
 
-3. Go to /server/models/constants.js and change `USERNAME` and `PASSWORD` fields to your own db's credentials
+3. Go to `/server/models/config.js` and change `USERNAME` and `PASSWORD` fields to your own db's credentials
 
 4. Run server side - this will create the necessary tables and start up the server
 ```
