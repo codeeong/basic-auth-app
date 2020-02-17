@@ -1,5 +1,11 @@
 ## Welcome To Codee Ong's Bambu Auth Challenge
 
+### This project in build with:
+#### - React front-end interface
+#### - Node-ExpressJS back-end server
+#### - MySQL database
+#### - Implemented with some basic front and backend tests on critical functionality.
+
 ### Instructions to Run Project:
 1. Clone this project and install dependencies
 ```
