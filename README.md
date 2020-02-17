@@ -1,4 +1,4 @@
-## Welcome To Codee Ong's Bambu Auth Challenge
+## Welcome To Codee Ong's Auth Coding Challenge
 
 ### This project in build with:
 #### - React front-end interface
