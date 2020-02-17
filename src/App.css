@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.Home-header {
+  height: 150px;
+  padding-top: 100px;
+  color: black;
+}
+
+.Home-subheader {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.babyYodas {
+  position: absolute;
+  bottom: 0;
+}
+
+.baby {
+  width: 400px;
+}
+
+.login-submit {
+  margin: 8px;
+}
+
+.login-form {
+  width: 100%;
+  margin-top: 8px;
+}
+
+.homeButton {
+  float:left;
+}
+
+.accountContainer {
+  margin-top: 32px;
+}
