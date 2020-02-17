@@ -14,7 +14,7 @@ cd basic-auth-app
 npm install
 ```
 
-2. Create databases in your local mysql db
+2. Create databases in your local mysql db shell:
 ```
 create database bambuauthchallenge;
 create database bambuauthchallengetest;
@@ -24,15 +24,16 @@ create database bambuauthchallengetest;
 
 4. Run server side - this will create the necessary tables and start up the server
 ```
+cd server
 node start.js
 ```
 
-3. Run front end of project and find it at http://localhost:3000
+3. Run front end of project in a new shell tab from project root and find it at http://localhost:3000
 ```
 npm run start
 ```
 
-4. Run all tests - front + backend
+4. Run all tests on project root - front + backend
 ```
 npm test
 ```
